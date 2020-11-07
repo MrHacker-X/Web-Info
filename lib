@@ -1,0 +1,6 @@
+import urllib2
+import sys
+url = raw_input("Enter The Site Link: ")
+url.rstrip()
+header = urllib2.urlopen(url).info()
+print (str(header))
