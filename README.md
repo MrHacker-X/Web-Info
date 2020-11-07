@@ -3,6 +3,8 @@
 A simple script for website information gathering, This script can gathering information of website by using website link or website ip address. Its 100% working
 ## Installation:
 
+![photo](https://c.top4top.io/p_1772oi32o0.png)
+
 ```
 pkg update
 pkg upgrade
