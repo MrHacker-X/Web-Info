@@ -19,21 +19,13 @@ echo -e $red "             The Script By:$cyan MrHacker-X"
 echo
 echo
 echo -e $cyan"{$yellow 1$cyan }$green My Ip"
-echo
 echo -e $cyan"{$yellow 2$cyan }$green Info Ip and Site"
-echo
 echo -e $cyan"{$yellow 3$cyan }$green Host DNS Finder"
-echo
 echo -e $cyan"{$yellow 4$cyan }$green Scanner Port"
-echo
 echo -e $cyan"{$yellow 5$cyan }$green Host Finder"
-echo
 echo -e $cyan"{$yellow 6$cyan }$green info domain"
-echo
 echo -e $cyan"{$yellow 7$cyan }$green Extract Links"
-echo
 echo -e $cyan"{$yellow 8$cyan }$green Others"
-echo
 echo -e $cyan"{$yellow 0$cyan }$green EXIT"
 echo
 echo
